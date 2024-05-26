@@ -9,6 +9,7 @@ from sklearn.preprocessing import StandardScaler, OrdinalEncoder
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
 from sklearn.impute import SimpleImputer
+from xgboost import XGBClassifier
 
 # Set halaman streamlit
 st.set_page_config(

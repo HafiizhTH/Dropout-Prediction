@@ -21,7 +21,7 @@ The focus of this project is to solve a business problem with the following step
 The dataset used in this project is sourced from dicoding. You can download the dataset by clicking the following link: [click here](https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance).
 
 To get started with our project, follow these installation steps:
-- Clone the project repository from our gitHub repository:
+- Clone the project repository from our github repository:
 ```
 git clone https://github.com/HafiizhTH/Dropout-Prediction.git
 ```
