@@ -333,7 +333,7 @@ elif page == "FAQ":
         - Curricular_units_1st_sem_grade
         - Curricular_units_2nd_sem_enrolled
         - Curricular_units_2nd_sem_approved
-        - Curricular_units_2nd_sem_grade
+        - Curricular_units_2nd_sem_grade   
         """)
 
     with st.expander("Bagaimana cara menggunakan aplikasi ini?"):
