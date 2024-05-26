@@ -60,7 +60,7 @@ In the Dashboard visualization, there are several features to analyze students w
 
 ## Testing Model
 
-If you want to try using this model to predict student dropout. [click here](https://dropout-prediction-2024.streamlit.app/)
+If you want to try using this model to predict student dropout. [click here](https://dropout-prediction.streamlit.app/)
 
 ![image](https://github.com/HafiizhTH/Dropout-Prediction/assets/96015981/00fd7c96-7952-40b8-abed-f447546dd0ec)
 
