@@ -15,7 +15,7 @@ The focus of this project is to solve business problems with the following steps
 
 ### Preparation
 
-The dataset used in this project is sourced from dicoding. You can download the dataset by clicking the following link: [click here](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee).
+The dataset used in this project is sourced from dicoding. You can download the dataset by clicking the following link: [click here](https://github.com/dicodingacademy/dicoding_dataset/tree/main/students_performance).
 
 To get started with our project, follow these installation steps:
 - Clone the project repository from our gitHub repository:
@@ -39,14 +39,14 @@ pip install -r requirements.txt
 ```
 Run streamlit app
 ```
-Streamlit run app.py
+streamlit run app.py
 ```
 
 ## Business Dashboard
 
-A business dashboard was created to monitor the various factors that influence the attrition rate. The dashboard provides comprehensive data visualization, enabling the human resources department to identify trends and make decisions based on the insights gained. If you would like to access the dashboard [click here](https://lookerstudio.google.com/u/0/reporting/3c9fe1a9-6b15-4bb8-9451-fd2746127e5c/page/n3Q0D).
+A business dashboard was created to monitor the various factors that influence the attrition rate. The dashboard provides comprehensive data visualization, enabling the human resources department to identify trends and make decisions based on the insights gained. If you would like to access the dashboard [click here](https://lookerstudio.google.com/u/0/reporting/906a8401-a1eb-4f20-ac6a-fda975851a7c/page/CRG1D).
 
-![image](https://github.com/HafiizhTH/Human_Resources/assets/96015981/6b06a268-d566-4d4e-9f3b-8b9890a5a82a)
+![image](https://github.com/HafiizhTH/Dropout-Prediction/assets/96015981/74ae530b-a543-4bd3-a329-ccaff4b55d3a)
 
 In the Dashboard visualization to be able to analyze employees in the company jaya jaya maju there are several features:
 - **Filter and Data Control**: serves to facilitate the search and analysis of specific data based on date, department, jobrole, and employee status.
@@ -56,9 +56,9 @@ In the Dashboard visualization to be able to analyze employees in the company ja
 
 ## Testing Model
 
-If you want to try using the model to predict employee attrition. [click here](https://attrition-prediction-2024.streamlit.app/)
+If you want to try using the model to predict employee attrition. [click here](https://dropout-prediction-2024.streamlit.app/)
 
-![image](https://github.com/HafiizhTH/Human_Resources/assets/96015981/b083eb07-1ba8-4c41-a4ae-9ac455c1e75c)
+![image](https://github.com/HafiizhTH/Dropout-Prediction/assets/96015981/00fd7c96-7952-40b8-abed-f447546dd0ec)
 
 In the attrition prediction model testing display, there are several pages as follows:
 - **Prediction**: There are 2 ways that you can use, namely single-predict (manual input) or multiple-predict (dataset upload).
